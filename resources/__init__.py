@@ -1,0 +1,1 @@
+#Esse arquivo funciona para 'transformar' a pasta resources em um módulo que importamos, como fazemos com pandas e numpy
